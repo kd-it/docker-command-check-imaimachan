@@ -1,2 +1,2 @@
-FROM alphine
+FROM alpine
 CMD echo "Hello, World!"
