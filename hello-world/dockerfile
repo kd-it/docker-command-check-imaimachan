@@ -1,0 +1,2 @@
+FROM busybox
+CMD echo "0J0X0XX 田中太郎"
